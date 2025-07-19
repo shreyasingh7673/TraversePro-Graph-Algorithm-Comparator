@@ -25,9 +25,6 @@ Learning or understanding the pathfinding or search algorithms and comparing the
     <img src="./public/demo.jpg" width="80%"/>
 </div>
 
-### Live at
-https://jainam321.github.io/Visualization/
-
 ## Features of this Project!
 
 * Graph of obstacles with option to select any node as Start and Finish node.
